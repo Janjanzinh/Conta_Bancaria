@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jan
- *
- */
-module Conta {
-}
